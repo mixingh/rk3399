@@ -13,7 +13,7 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://git.kos.org.cn/aio-3399b/coolsnowwolf_lede.git
   REPO_BRANCH: master
 
 on:
